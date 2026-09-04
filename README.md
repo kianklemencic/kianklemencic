@@ -1,7 +1,7 @@
 # Hi, I'm Kian
 
-fourth-year computer science student at UCalgary with interests that span a bit of everything in the field!
-currently seeking internship/co-op opportunities, feel free to reach out!
+Fourth-year Computer Science student at UCalgary with a versatile technical foundation, interested in creating projects about bridging many different disciplines of my study, including full-stack development, cloud architecture, cybersecurity, computer graphics, and much more.
+Currently seeking internship/co-op opportunities, feel free to reach out!
 
 # Projects
 
