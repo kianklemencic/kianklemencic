@@ -1,4 +1,4 @@
-# Hi, I'm Kian
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Kian)](https://git.io/typing-svg)
 
 Fourth-year Computer Science student at UCalgary with a versatile technical foundation, interested in creating projects about bridging many different disciplines of my study, including full-stack development, cloud architecture, cybersecurity, computer graphics, and much more.
 Currently seeking internship/co-op opportunities, feel free to reach out!
